@@ -42,7 +42,7 @@
 	⎿ {Github ID}
 		⎿ {File}.java
 	⎿ {Github ID}
-(ex)⎿ rlawotmd
+    (ex)⎿ rlawotmd
 		⎿ BOJ_HelloWorld.java
 		⎿ BOJ_A+B.java
 ⎿ week_2
