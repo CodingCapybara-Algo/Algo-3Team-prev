@@ -6,12 +6,12 @@
   <tr>
     <td align="center"><a href="https://github.com/delight-es"><img src="https://avatars.githubusercontent.com/u/159528848?v=4" width="150px;" alt=""/>
     <td align="center"><a href="https://github.com/hyewonbae"><img src="https://avatars.githubusercontent.com/u/43161096?v=4" width="150px;" alt=""/>
-    <td align="center"><a href="https://github.com/rlawotmd"><img src="https://avatars.githubusercontent.com/u/117148033?v=4" width="150px;" alt=""/>
+    <td align="center"><a href="https://github.com/JHJ08"><img src="https://avatars.githubusercontent.com/u/161445093?v=4" width="150px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/delight-es" title="Code">eunsoo</a></td>
     <td align="center"><a href="https://github.com/hyewonbae" title="Code">HyewonBae</a></td>
-    <td align="center"><a href="https://github.com/rlawotmd" title="Code">rlawotmd(임시)</a></td>
+    <td align="center"><a href="https://github.com/JHJ08" title="Code">JHJ08</a></td>
   </tr>
 </table>
 <br>
