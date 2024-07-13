@@ -13,7 +13,7 @@ public class PGS_K번째수 {
 	        
 	        for(int idx=0; idx<commands.length; idx++)
 	        {
-	            tmp_list.clear(); // 초기화
+	            tmp_list.clear(); // 추출한 배열 정보를 저장할 리스트 초기화
 	            
 	            int i = commands[idx][0]-1; // 시작 인덱스
 	            int j = commands[idx][1]-1; // 끝 인덱스
@@ -24,10 +24,11 @@ public class PGS_K번째수 {
 	                tmp_list.add(array[i]);
 	            }
 	            
-	            Collections.sort(tmp_list);
+	            Collections.sort(tmp_list); // 정렬 
 	            
-	            // 찾은 수를 answer에 추가해준다.
+	            // 찾은 수를 answer에 추가
 	            answer[idx] = tmp_list.get(k);
+	            
 	            
 	        }
 	        
